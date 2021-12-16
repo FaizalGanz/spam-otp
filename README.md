@@ -25,7 +25,7 @@ $ git clone https://github.com/FaizalGanz/spam-otp.git
 
 ```python3
 
-$ cd Multi-Otp
+$ cd spam-otp
 
 $ python3 run.py
 
